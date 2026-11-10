@@ -1,0 +1,10 @@
+{
+  "name": "awesome-harness",
+  "owner": {
+    "name": "marcosoikawa"
+  },
+  "metadata": {
+    "description": "Marketplace de plugins para o GitHub Copilot CLI."
+  },
+  "plugins": []
+}
